@@ -117,4 +117,4 @@ Main Menu
 
 ## Author
 
-[Your Name] — Computer Engineering Student, 2nd Semester
+Ayesha Shabir — Computer Engineering Student, 2nd Semester
